@@ -36,7 +36,7 @@
     {
         "class": "tab_control",
         "settings": ["show_tab_close_buttons"],
-        "content_margin": [12, 3, 7, 3]
+        "content_margin": [12, -3, 7, 3]
     },
     // Tab hover state
     {
