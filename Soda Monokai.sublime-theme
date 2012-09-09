@@ -14,7 +14,7 @@
         "tab_overlap": 5,
         "tab_width": 180,
         "tab_min_width": 45,
-        "tab_height": 25,
+        "tab_height": 35,
         "mouse_wheel_switch": false
     },
     {
@@ -453,7 +453,7 @@
     // Sidebar container
     {
         "class": "sidebar_container",
-        "layer0.texture": "Theme - Soda Monokai/Soda Monokai/sidebar-bg.png",
+        "layer0.tint": [70, 71, 65], // border-right-color
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [1, 1, 2, 1],
         "content_margin": [0, 0, 1, 0]
@@ -463,6 +463,8 @@
         "class": "sidebar_tree",
         "row_padding": [8, 3],
         "indent": 15,
+        "layer0.tint": [30, 31, 27], // background-color
+        "layer0.opacity": 1.0,
         "indent_offset": 15,
         "indent_top_level": false,
         "dark_content": true
@@ -472,7 +474,7 @@
         "class": "tree_row",
         "layer0.texture": "Theme - Soda Monokai/Soda Monokai/sidebar-row-selected.png",
         "layer0.opacity": 0.0,
-        "layer0.inner_margin": [1, 1]
+        "layer0.inner_margin": [1, 1] // No shadow (gradient on left and right side)
     },
     // Sidebar row selected
     {
