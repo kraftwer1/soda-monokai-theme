@@ -453,7 +453,7 @@
     // Sidebar container
     {
         "class": "sidebar_container",
-        "layer0.tint": [70, 71, 65], // border-right-color
+        "layer0.tint": [117, 112, 95], // border-right-color
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [1, 1, 2, 1],
         "content_margin": [0, 0, 1, 0]
