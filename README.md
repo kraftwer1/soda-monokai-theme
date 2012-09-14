@@ -1,6 +1,6 @@
-# Soda Theme
+# Soda Monokai Theme
 
-Dark and light custom UI themes for Sublime Text 2.
+A fork of the wonderful Soda theme using Monokai colors.
 
 ## Design
 
