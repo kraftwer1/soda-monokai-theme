@@ -1,20 +1,14 @@
 # Soda Monokai Theme
 
-A fork of the wonderful Soda theme using Monokai colors.
+A fork of the wonderful Soda theme using Monokai colors. It's a work in progress and does not yet cover everything.
 
 ## Design
 
-![Soda Light Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-light-theme.png?v=4)
-
-![Soda Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
+![Soda Monokai Theme](http://kraftwer1.github.com/soda-monokai-theme/Screenshot.png?v=1)
 
 ## Installation
 
-Soda theme is designed to work with the latest [development build](http://www.sublimetext.com/dev) of Sublime Text 2.
-
-### Using Sublime Package Control
-
-If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - Soda` in the packages list.
+Soda Monokai theme is designed to work with the latest [development build](http://www.sublimetext.com/dev) of Sublime Text 2.
 
 ### Using Git
 
@@ -24,7 +18,7 @@ You can locate your Sublime Text 2 `Packages` directory by using the menu item `
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
+    git clone https://github.com/kraftwer1/soda-monokai-theme/ "Theme - Soda Monokai"
 
 ### Download Manually
 
@@ -37,7 +31,7 @@ While inside the `Packages` directory, clone the theme repository using the comm
 To configure Sublime Text 2 to use the theme:
 
 * Open your User Settings Preferences file `Sublime Text 2 -> Preferences -> Settings - User`
-* Add (or update) your theme entry to be `"theme": "Soda Light.sublime-theme"` or `"theme": "Soda Dark.sublime-theme"`
+* Add (or update) your theme entry to be `"theme": "Soda Monokai.sublime-theme"`
 
 ### Example User Settings
 
@@ -47,19 +41,9 @@ To configure Sublime Text 2 to use the theme:
 
 ## Additional Features
 
-### Alternate Tab Styles
-
-Soda Theme ships with two alternate UI tab styles.
-
-By default, a square tab style is used. If you'd prefer to use the original curved tab style, add the following custom setting to your `Settings - User` file:
-
-    "soda_classic_tabs": true
-
-![Soda Tab Styles](http://buymeasoda.github.com/soda-theme/images/features/multiple-tab-styles.png)
-
 ### Retina Resolution UI
 
-Soda Theme has been designed to take advantage of retina resolution (high-dpi) displays. Both Soda Light and Soda Dark support retina displays.
+Soda Monokai does not yet support retina displays.
 
 ![Soda Retina](http://buymeasoda.github.com/soda-theme/images/features/soda-retina.png)
 
@@ -71,17 +55,7 @@ Sublime Text 2 provides an elegant way to tweak existing themes without having t
 
 ### Syntax Highlighting Colour Schemes
 
-The Soda Light screenshot uses a modified version of Espresso Tutti Colori and the Soda Dark screenshot uses a modified version of Monokai.
-
-If you'd like to use the syntax highlighting schemes shown in the screenshots: 
-
-* Download [colour-schemes.zip](http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip)
-* Unzip and place the extracted `tmtheme` files in the Sublime Text 2 `Packages/User` folder
-* Enable the colour scheme via `Preferences -> Color Scheme -> User`
-
-### Code Font
-
-The code font shown in the screenshot is Menlo.
+The Soda Monokai screenshot uses the Sublime Test 2's Monokai scheme.
 
 ## Development
 
