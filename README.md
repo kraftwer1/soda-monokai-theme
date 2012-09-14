@@ -4,7 +4,7 @@ A fork of the wonderful Soda theme using Monokai colors. It's a work in progress
 
 ## Design
 
-![Soda Monokai Theme](http://kraftwer1.github.com/soda-monokai-theme/Screenshot.png?v=1)
+![Soda Monokai Theme](https://raw.github.com/kraftwer1/soda-monokai-theme/master/Screenshot.png?v=1)
 
 ## Installation
 
