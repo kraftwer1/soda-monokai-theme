@@ -355,7 +355,7 @@
 
     {
         "class": "sheet_container_control",
-        "layer0.tint": [25, 25, 25],
+        "layer0.tint": [39, 40, 34],
         "layer0.opacity": 1.0
     },
 
@@ -463,7 +463,7 @@
         "class": "sidebar_tree",
         "row_padding": [8, 3],
         "indent": 15,
-        "layer0.tint": [30, 31, 27], // background-color
+        "layer0.tint": [24, 25, 22], // background-color
         "layer0.opacity": 1.0,
         "indent_offset": 15,
         "indent_top_level": false,
